@@ -1,6 +1,6 @@
 # 28BYJ-48 StepperMotor
 
-Python3 driver to control the 28BYJ-48 stepper motor for RaspberryPi3 platform.
+Python3 driver to control the 28BYJ-48 stepper motor for RaspberryPi3 platform with ULN2003.
 
 ## Getting Started
 
